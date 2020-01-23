@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:ruzismartenterprise.statuspage.io,2005:/history</id>
+  <link rel="alternate" type="text/html" href="https://ruzismartenterprise.statuspage.io"/>
+  <link rel="self" type="application/atom+xml" href="https://ruzismartenterprise.statuspage.io/history.atom"/>
+  <title>ruzismart enterprise Status - Incident History</title>
+  <updated>2020-01-04T08:04:51Z</updated>
+  <author>
+    <name>ruzismart enterprise</name>
+  </author>
+  <entry>
+    <id>tag:ruzismartenterprise.statuspage.io,2005:Incident/2964322</id>
+    <published>2019-09-08T12:08:54Z</published>
+    <updated>2019-09-08T12:08:54Z</updated>
+    <link rel="alternate" type="text/html" href="https://ruzismartenterprise.statuspage.io/incidents/q0sv7tkwf9wl"/>
+    <title>Description</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;12:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - Our data processing infrastructure is running behind which is causing inaccuracies in the reporting tools. No data has been lost and the system should be caught up shortly.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;12:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Our data processing infrastructure is running behind which is causing inaccuracies in the reporting tools. No data has been lost and the system should be caught up shortly.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;19:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to investigate this issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;18:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Update new incident&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;18:57&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Status and incident&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ruzismartenterprise.statuspage.io,2005:Incident/2864876</id>
+    <published>2019-08-14T03:42:34Z</published>
+    <updated>2019-08-15T03:26:35Z</updated>
+    <link rel="alternate" type="text/html" href="https://ruzismartenterprise.statuspage.io/incidents/cj386ys3m7fq"/>
+    <title>This is an example incident</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;03:42&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - Empathize with those affected and let them know everything is operating as normal.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;03:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - Let your users know once a fix is in place, and keep communication clear and precise.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;03:38&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - As you continue to work through the incident, update your customers frequently.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;04:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - When your product or service isn’t functioning as expected, let your customers know by creating an incident. Communicate early, even if you don’t know exactly what’s going on.&lt;/p&gt;</content>
+  </entry>
+</feed>

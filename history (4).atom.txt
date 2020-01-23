@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:wss.status.symantec.com,2005:/history</id>
+  <link rel="alternate" type="text/html" href="https://wss.status.symantec.com"/>
+  <link rel="self" type="application/atom+xml" href="https://wss.status.symantec.com/history.atom"/>
+  <title>Symantec Web Security Service Status - Incident History</title>
+  <updated>2020-01-02T15:41:26Z</updated>
+  <author>
+    <name>Symantec Web Security Service</name>
+  </author>
+  <entry>
+    <id>tag:wss.status.symantec.com,2005:Incident/3315566</id>
+    <published>2020-01-09T14:00:00Z</published>
+    <updated>2019-12-17T09:26:20Z</updated>
+    <link rel="alternate" type="text/html" href="https://wss.status.symantec.com/incidents/nn13t2d7hr8s"/>
+    <title>Network Maintenance in Singapore (SIN3) Data Center January 9, 2020</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jan &lt;var data-var='date'&gt;9&lt;/var&gt;, &lt;var data-var='time'&gt;14:00&lt;/var&gt; - &lt;var data-var='time'&gt;18:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;09:25&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Please note: This scheduled maintenance has changed. The impact remains the same as previously mentioned.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt; Updated schedule&lt;/strong&gt;&lt;br /&gt;Start Date: January 9, 2020, at 14:00 UTC&lt;br /&gt;End Date: January 9, 2020, at 18:00 UTC&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;21:28&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - Network maintenance will occur in our Singapore (SIN3) data center on January 9, 2020, starting 00:00 UTC, and is expected to last up to 4 hours.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Impact&lt;/strong&gt;&lt;br /&gt;There will be a brief outage during the maintenance window.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Required Action&lt;/strong&gt;&lt;br /&gt;IPSec connected customers are requested to bring up their secondary tunnel (if configured) prior to the maintenance&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Original schedule&lt;/strong&gt;&lt;br /&gt;&lt;li&gt;Start Date: January 9, 2020, at 00:00 UTC&lt;br /&gt;&lt;li&gt; End Date: January 9, 2020, at 04:00 UTC&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:wss.status.symantec.com,2005:Incident/3315551</id>
+    <published>2020-01-09T14:00:00Z</published>
+    <updated>2019-12-12T22:33:14Z</updated>
+    <link rel="alternate" type="text/html" href="https://wss.status.symantec.com/incidents/bb39g8fn8f8r"/>
+    <title>Network Maintenance in Johannesburg (JNB2) Data Center January 9, 2020</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jan &lt;var data-var='date'&gt;9&lt;/var&gt;, &lt;var data-var='time'&gt;14:00&lt;/var&gt; - &lt;var data-var='time'&gt;18:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;22:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Please note:  This scheduled maintenance has changed:&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;New Schedule&lt;/strong&gt;&lt;br /&gt;&lt;li&gt;Start Date: January 8, 2020, at 14:00 UTC&lt;br /&gt;&lt;li&gt; End Date: January 8, 2020, at 18:00 UTC&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;21:24&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - Network maintenance will occur in our Johannesburg (JNB2) data center on January 9, 2020, starting 14:00 UTC, and is expected to last up to 4 hours.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Impact&lt;/strong&gt;&lt;br /&gt;There will be a brief outage during the maintenance window.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Required Action&lt;/strong&gt;&lt;br /&gt;IPSec connected customers are requested to bring up their secondary tunnel (if configured) prior to the maintenance&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Original Schedule&lt;/strong&gt;&lt;br /&gt;&lt;li&gt;Start Date: January 9, 2020, at 14:00 UTC&lt;br /&gt;&lt;li&gt; End Date: January 9, 2020, at 18:00 UTC&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:wss.status.symantec.com,2005:Incident/3315586</id>
+    <published>2020-01-08T21:00:00Z</published>
+    <updated>2019-12-12T22:36:00Z</updated>
+    <link rel="alternate" type="text/html" href="https://wss.status.symantec.com/incidents/4mtrqydg1kkp"/>
+    <title>Network Maintenance in Sao Paulo (GRU1) Data Center January 8, 2020</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jan &lt;var data-var='date'&gt;8&lt;/var&gt;, &lt;var data-var='time'&gt;21:00&lt;/var&gt; UTC &amp;nbsp;-&amp;nbsp; Jan &lt;var data-var='date'&gt;9&lt;/var&gt;, &lt;var data-var='time'&gt;01:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;22:36&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Please note:  This scheduled maintenance has changed.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;New Schedule&lt;/strong&gt;&lt;br /&gt;&lt;li&gt;Start Date: January 7, 2020, at 21:00 UTC&lt;br /&gt;&lt;li&gt; End Date: January 8, 2020, at 01:00 UTC&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;21:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - Network maintenance will occur in our Sao Paulo (GRU1) data center on January 8, 2020, starting 21:00 UTC, and is expected to last up to 4 hours.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Impact&lt;/strong&gt;&lt;br /&gt;There will be a brief outage during the maintenance window.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Required Action&lt;/strong&gt;&lt;br /&gt;IPSec connected customers are requested to bring up their secondary tunnel (if configured) prior to the maintenance&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Original Schedule&lt;/strong&gt;&lt;br /&gt;&lt;li&gt;Start Date: January 8, 2020, at 21:00 UTC&lt;br /&gt;&lt;li&gt; End Date: January 9, 2020, at 01:00 UTC&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:wss.status.symantec.com,2005:Incident/3314768</id>
+    <published>2020-01-07T15:30:00Z</published>
+    <updated>2019-12-12T17:48:35Z</updated>
+    <link rel="alternate" type="text/html" href="https://wss.status.symantec.com/incidents/skn68fqv6h1x"/>
+    <title>Network Maintenance in Chennai (MAA1) Data Center January 7, 2020</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jan &lt;var data-var='date'&gt;7&lt;/var&gt;, &lt;var data-var='time'&gt;15:30&lt;/var&gt; - &lt;var data-var='time'&gt;19:30&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;17:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - Network maintenance will occur in our Chennai (MAA1) data center on January 7, 2020, starting 15:30 UTC, and is expected to last up to 4 hours.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Impact&lt;/strong&gt;&lt;br /&gt;There will be a brief outage during the maintenance window.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Required Action&lt;/strong&gt;&lt;br /&gt;IPSec connected customers are requested to bring up their secondary tunnel (if configured) prior to the maintenance&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Schedule&lt;/strong&gt;&lt;br /&gt;&lt;li&gt;Start Date: January 7, 2020, at 15:30 UTC&lt;br /&gt;&lt;li&gt; End Date: January 7, 2020, at 19:30 UTC&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:wss.status.symantec.com,2005:Incident/3381831</id>
+    <published>2020-01-02T15:41:26Z</published>
+    <updated>2020-01-02T15:41:26Z</updated>
+    <link rel="alternate" type="text/html" href="https://wss.status.symantec.com/incidents/fl9w8ylfjn8v"/>
+    <title>Beijing (PEK1) Data Center Unavailable</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;15:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We have confirmed the underlying issue is resolved. This incident is now closed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;13:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - As of 13:03 UTC, connectivity has been restored. We continue to monitor the data center performance. We will provide additional updates as new information becomes available.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;12:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Beijing (PEK1) data center is currently unavailable. We are investigating the issue and will provide additional updates as new information becomes available.&lt;br /&gt;&lt;br /&gt;IPSec connected customers are requested to bring up their secondary tunnel (if configured) while we work towards resolving this incident.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:wss.status.symantec.com,2005:Incident/3358378</id>
+    <published>2019-12-27T17:35:31Z</published>
+    <updated>2019-12-27T17:35:31Z</updated>
+    <link rel="alternate" type="text/html" href="https://wss.status.symantec.com/incidents/fgprlzmkg0gp"/>
+    <title>Important announcement for customers using Unified Agent (UA) connections</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;17:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;17:24&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Please note, this maintenance window has been extended&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Updated Schedule&lt;/strong&gt;&lt;br /&gt;• Start Date: December 25, 2019, at 05:35 UTC&lt;br /&gt;• End Date: December 27, 2019, at 17:35 UTC&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;05:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;05:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - Some customer connections via Unified Agent (UA) may experience disconnects from the service due to certificate expiry.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Action required&lt;/strong&gt;&lt;br /&gt;The expired certificate should be renewed as per KB https://support.symantec.com/us/en/article.TECH242793.html .&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Original Schedule&lt;/strong&gt;&lt;br /&gt;• Start Date: December 25, 2019, at 05:35 UTC&lt;br /&gt;• End Date: December 26, 2019, at 17:35 UTC&lt;br /&gt;&lt;br /&gt;Please note customers who have renewed the certificate would not be impacted.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:wss.status.symantec.com,2005:Incident/3362061</id>
+    <published>2019-12-26T14:00:00Z</published>
+    <updated>2019-12-26T14:46:04Z</updated>
+    <link rel="alternate" type="text/html" href="https://wss.status.symantec.com/incidents/7t6r3dvg4kzp"/>
+    <title>Tel Aviv (TLV1) Data Center Degraded</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;14:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - On December 26, 2019, between 13:53 and 13:58 UTC, customers connecting to the Tel-Aviv( TLV1) Data Center may have experienced decreased performance or disconnects from the service. This issue has been resolved, and normal connectivity restored.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:wss.status.symantec.com,2005:Incident/3359316</id>
+    <published>2019-12-25T12:30:00Z</published>
+    <updated>2019-12-25T13:55:26Z</updated>
+    <link rel="alternate" type="text/html" href="https://wss.status.symantec.com/incidents/6trv1bgwxvk3"/>
+    <title>Johannesburg (JNB2) Data Center Degraded Performance</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;12:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - On December 25, 2019, between approximately 10:00 and 12:30 UTC, customers connections to the Johannesburg (JNB2) Data Center may have experienced decreased performance or disconnect from the service. This issue has been resolved, and normal connectivity restored.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:wss.status.symantec.com,2005:Incident/3353051</id>
+    <published>2019-12-23T13:07:23Z</published>
+    <updated>2019-12-23T13:19:33Z</updated>
+    <link rel="alternate" type="text/html" href="https://wss.status.symantec.com/incidents/wj34f7d5hyr1"/>
+    <title>Zurich (ZRH2) Data Center Unavailable</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;13:07&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - On December 23, 2019, between 10:56 and 11:23 UTC, customers connecting to the Zurich (ZRH2) Data Center may have experienced decreased performance or disconnects from the service. This issue has been resolved, and normal connectivity restored.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:wss.status.symantec.com,2005:Incident/3342269</id>
+    <published>2019-12-19T23:02:42Z</published>
+    <updated>2019-12-19T23:16:14Z</updated>
+    <link rel="alternate" type="text/html" href="https://wss.status.symantec.com/incidents/j5wfqg3l32kj"/>
+    <title>Cloud Portal Unavailable</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;23:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We have confirmed the service is fully restored. This incident is now resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;22:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - We have resolved the issue causing login errors and restored the Portal service.&lt;br /&gt;&lt;br /&gt;We will continue to monitor the service to ensure the it is fully restored and provide further updates as new information is discovered&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;21:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are currently investigating an availability issue with the Cloud Portal. Users of the Cloud Portal will be unable to access the portal at this time.   Users may receive a 500 error while attempting to login to the Portal&lt;br /&gt;&lt;br /&gt;We will provide additional updates as new information becomes available.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:wss.status.symantec.com,2005:Incident/3315821</id>
+    <published>2019-12-19T19:00:31Z</published>
+    <updated>2019-12-19T19:00:31Z</updated>
+    <link rel="alternate" type="text/html" href="https://wss.status.symantec.com/incidents/g82s4hnh056k"/>
+    <title>Network Maintenance in Sydney (SYD1) Data Center December 19, 2019</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;19:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;15:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;22:57&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - Network maintenance will occur in our  Sydney (SYD1) data center on December 19, 2019, starting at 15:00 UTC, and is expected to last up to 4 hours.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Impact&lt;/strong&gt;&lt;br /&gt;There may be a brief outage during the maintenance window.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Required Action&lt;/strong&gt;&lt;br /&gt;IPSec connected customers are requested to bring up their secondary tunnel (if configured) prior to the maintenance.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Schedule&lt;/strong&gt;&lt;br /&gt;• Start Date: December 19, 2019, at 15:00 UTC&lt;br /&gt;• End Date: December 19, 2019, at 19:00 UTC&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:wss.status.symantec.com,2005:Incident/3303061</id>
+    <published>2019-12-18T17:00:31Z</published>
+    <updated>2019-12-18T17:00:31Z</updated>
+    <link rel="alternate" type="text/html" href="https://wss.status.symantec.com/incidents/nrbj1tnt6445"/>
+    <title>Network Maintenance in Tel Aviv (TLV1) Data Center December 18, 2019</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;19:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - Network maintenance will occur in our Tel Aviv (TLV1) data center on December 18, 2019, starting at 16:00 UTC, and is expected to last up to 1 hour.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Impact&lt;/strong&gt;&lt;br /&gt;There may be a brief outage during the maintenance window.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Required Action&lt;/strong&gt;&lt;br /&gt;IPSec connected customers are requested to bring up their secondary tunnel (if configured) prior to the maintenance.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Schedule&lt;/strong&gt;&lt;br /&gt;• Start Date: December 18, 2019, at 16:00 UTC&lt;br /&gt;• End Date: December 18, 2019, at 17:00 UTC&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:wss.status.symantec.com,2005:Incident/3315795</id>
+    <published>2019-12-18T01:00:54Z</published>
+    <updated>2019-12-18T01:00:55Z</updated>
+    <link rel="alternate" type="text/html" href="https://wss.status.symantec.com/incidents/j7yn2q9tr9vw"/>
+    <title>Network Maintenance in Buenos Aires (AEP1) Data Center December 17, 2019</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;01:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;21:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;22:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - Network maintenance will occur in our Buenos Aires (AEP1) data center on December 17, 2019, starting at 21:00 UTC, and is expected to last up to 4 hours.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Impact&lt;/strong&gt;&lt;br /&gt;There may be a brief outage during the maintenance window.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Required Action&lt;/strong&gt;&lt;br /&gt;IPSec connected customers are requested to bring up their secondary tunnel (if configured) prior to the maintenance.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Schedule&lt;/strong&gt;&lt;br /&gt;• Start Date: December 17, 2019, at 21:00 UTC&lt;br /&gt;• End Date: December 18, 2019, at 01:00 UTC&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:wss.status.symantec.com,2005:Incident/3315781</id>
+    <published>2019-12-17T20:30:29Z</published>
+    <updated>2019-12-17T20:30:29Z</updated>
+    <link rel="alternate" type="text/html" href="https://wss.status.symantec.com/incidents/yldc6rt2js6b"/>
+    <title>Network Maintenance in Mumbai (BOM1) Data Center December 17, 2019</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;20:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;16:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;22:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - Network maintenance will occur in our Mumbai (BOM1) data center on December 17, 2019, starting at 16:30 UTC, and is expected to last up to 4 hours.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Impact&lt;/strong&gt;&lt;br /&gt;There may be a brief outage during the maintenance window.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Required Action&lt;/strong&gt;&lt;br /&gt;IPSec connected customers are requested to bring up their secondary tunnel (if configured) prior to the maintenance.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Schedule&lt;/strong&gt;&lt;br /&gt;• Start Date: December 17, 2019, at 16:30 UTC&lt;br /&gt;• End Date: December 17, 2019, at 20:30 UTC&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:wss.status.symantec.com,2005:Incident/3289862</id>
+    <published>2019-12-10T18:00:39Z</published>
+    <updated>2019-12-10T18:00:39Z</updated>
+    <link rel="alternate" type="text/html" href="https://wss.status.symantec.com/incidents/p27y2b9t7rdy"/>
+    <title>Network Maintenance in Chennai (MAA1) Data Center December 10, 2019</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;18:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;21:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - Network maintenance will occur in our Chennai (MAA1) data center on December 10, 2019 starting 16:00 UTC, and is expected to last up to 2 hours.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Impact&lt;/strong&gt;&lt;br /&gt;No impact expected.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Schedule&lt;/strong&gt;&lt;br /&gt;&lt;li&gt;Start Date: December 10, 2019 at 16:00 UTC&lt;br /&gt;&lt;li&gt; End Date: December 10, 2019 at 18:00 UTC&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:wss.status.symantec.com,2005:Incident/3302538</id>
+    <published>2019-12-10T05:45:16Z</published>
+    <updated>2019-12-10T05:45:16Z</updated>
+    <link rel="alternate" type="text/html" href="https://wss.status.symantec.com/incidents/2ttxpymjl8kc"/>
+    <title>Authentication Errors when Logging in through SAML</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;05:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We have confirmed the underlying issue impacting SAML authentication is resolved. This incident is now closed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;03:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - As of 03:45 UTC, SAML authentication issues have been resolved. We continue to monitor the portal performance. We will provide additional updates as new information becomes available.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;23:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to work on deployment of the fix.  We will provide additional updates as new information becomes available.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;19:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We have identified the issue impacting SAML authentication and working on deploying a fix. We will provide additional updates as new information becomes available.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;17:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are aware some customers are encountering issues with SAML authentication. We are investigating the issue and will provide additional updates as new information becomes available.&lt;br /&gt;&lt;br /&gt;Impacted users should consider temporarily disabling SAML “Sign Authentication Request” option in the portal, as a workaround while we work on resolving this incident. User can locate this option under Authentication&gt;SAML.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:wss.status.symantec.com,2005:Incident/3258654</id>
+    <published>2019-12-06T23:59:30Z</published>
+    <updated>2019-12-06T23:59:30Z</updated>
+    <link rel="alternate" type="text/html" href="https://wss.status.symantec.com/incidents/cpc86q7t55km"/>
+    <title>Web Security Service Maintenance Announcement</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;23:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;23:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;19:42&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - As &lt;a href="https://wss.status.symantec.com/incidents/2wm6j44vb7y2"&gt; previously communicated on October 14, 2019&lt;/a&gt;, Symantec is performing a service-wide deployment of the Web Security Service release, which started on October 21, 2019, and is completing on December 6, 2019 at approximately 03:00 UTC.&lt;br /&gt; &lt;br /&gt;Note: For a list of resolved issues that are included in this release, please review the &lt;a href="https://support.symantec.com/content/unifiedweb/us/en/article.doc10648.html"&gt; release notes.&lt;/a&gt; Visit &lt;a href="https://wss.status.symantec.com"&gt; Symantec Status&lt;/a&gt; Symantec Status to sign up for periodic updates and sign up for notifications.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;New Features and Enhancements&lt;/b&gt;&lt;br /&gt;&lt;li&gt;WSS Agent 6.1 supporting the upcoming Cloud Firewall Service release&lt;br /&gt;&lt;li&gt;Infrastructure updates to prepare for the upcoming Cloud Firewall Service release&lt;br /&gt;&lt;li&gt;SEP Agent for WSS: SAML authentication supported in all deployment models&lt;br /&gt;&lt;li&gt;WSS threat protection now includes controls for web-traffic on non-standard ports&lt;br /&gt;&lt;li&gt;UPE support for SGOSv7 reference devices with security policy templates and exemptions&lt;br /&gt;&lt;li&gt;DLP scanning policy updated with latest recommendations&lt;br /&gt;&lt;li&gt;Auth-Connector update improving service stability and monitoring&lt;br /&gt; &lt;br /&gt;&lt;b&gt;Timing&lt;/b&gt;&lt;br /&gt;The maintenance window, which started on October 21, 2019, will complete on December 6, 2019. All maintenance will occur between 18:00 and 06:00 local data center time.&lt;br /&gt; &lt;br /&gt;&lt;b&gt;Customer Impact&lt;/b&gt;&lt;br /&gt;The following describes what happens to connected clients, depending on the access method used:&lt;br /&gt;&lt;li&gt;Explicit proxy / Unified Agent / Proxy Forwarding: The service automatically redirects connections to other active resources within the same data center or geographic location. No customer action is required for failover to occur.&lt;br /&gt;&lt;li&gt;IPSec: A brief failover delay may occur as we redirect traffic to other active resources within the data center. No customer action is required for failover to occur.&lt;br /&gt;&lt;li&gt;During the last day of the maintenance window, administrators actively using the WSS Portal may need to re-authenticate.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Service Impact&lt;/b&gt;&lt;br /&gt;This maintenance will be performed on all service components within the data center. These components will be upgraded in rotation, preserving service at each data center at all times. &lt;br /&gt;&lt;br /&gt;Note: There will be no change to access log format.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Reporting Problems&lt;/b&gt;&lt;br /&gt;If you experience issues following this maintenance, contact Technical Support. Support information is located at https://support.symantec.com/en_US.html or on the main Web Security Service Portal page at https://portal.threatpulse.com/.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:wss.status.symantec.com,2005:Incident/3101722</id>
+    <published>2019-12-06T23:59:29Z</published>
+    <updated>2019-12-06T23:59:29Z</updated>
+    <link rel="alternate" type="text/html" href="https://wss.status.symantec.com/incidents/2wm6j44vb7y2"/>
+    <title>Web Security Service Maintenance Announcement</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;23:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;23:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;21:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - The previously announced deployment communicated on October 14, 2019 has been extended to December 6, 2019. &lt;br /&gt;&lt;br /&gt;For questions contact Technical Support. Support information located at https://support.symantec.com/en_US.html or on the main Web Security Service Portal page at https://portal.threatpulse.com/.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;15:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - Symantec will be conducting general maintenance to prepare for an upcoming release of the Web Security Service. During this maintenance event all services will remain operational and available.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Timing&lt;/b&gt;&lt;br /&gt;The maintenance window will run from October 21, 2019, with an estimated completion date of November 15, 2019. All maintenance will occur between 18:00 and 06:00 local data center time.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Customer Impact&lt;/b&gt;&lt;br /&gt;The following describes what happens to connected clients, depending on access method used:&lt;br /&gt;&lt;li&gt;Explicit proxy / Unified Agent / Proxy Forwarding: The service automatically redirects connections to active data pods within the same data center or geographic location. This is for information only, and the customer does not need to take any action.&lt;br /&gt;&lt;li&gt;IPSec: A short fail-over delay may occur as the load balancer directs traffic to another active data pod within the data center. This is for information only, and the customer does not need to take any action*.&lt;br /&gt; *The creation of a backup tunnel to another data center (if not already configured) prior to the deployment is recommended for customers connecting to Oslo and Tel Aviv.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Reporting Problems&lt;/b&gt;&lt;br /&gt;If you experience issues following this maintenance, contact Technical Support. Support information is located at https://support.symantec.com/en_US.html or on the main Web Security Service Portal page at https://portal.threatpulse.com/.&lt;br /&gt;&lt;br /&gt;Please visit Symantec Status for periodic updates and to see other status of the Web Security Service.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:wss.status.symantec.com,2005:Incident/3290534</id>
+    <published>2019-12-06T02:01:58Z</published>
+    <updated>2019-12-06T02:03:12Z</updated>
+    <link rel="alternate" type="text/html" href="https://wss.status.symantec.com/incidents/6yn9b08krfyc"/>
+    <title>Turin (TRN1) Data Center Degraded Performance</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;02:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - On December 6, 2019, between 01:26 and 01:42 UTC, customer connections to the Turin (TRN1) Data Center may have experienced decreased performance or disconnect from the service. This issue has been resolved, and normal connectivity restored.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:wss.status.symantec.com,2005:Incident/3266912</id>
+    <published>2019-11-29T04:52:27Z</published>
+    <updated>2019-11-29T04:56:26Z</updated>
+    <link rel="alternate" type="text/html" href="https://wss.status.symantec.com/incidents/bg055725z5bd"/>
+    <title>Turin (TRN1) Data Center Degraded Performance</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;04:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - On November 29, 2019, between 04:26 and 04:31 UTC, customer connections to the Turin (TRN1) Data Center may have experienced decreased performance or disconnect from the service. This issue has been resolved, and normal connectivity restored.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:wss.status.symantec.com,2005:Incident/3264993</id>
+    <published>2019-11-28T14:30:00Z</published>
+    <updated>2019-11-28T15:00:15Z</updated>
+    <link rel="alternate" type="text/html" href="https://wss.status.symantec.com/incidents/28s48stbt18x"/>
+    <title>Turin (TRN1) Data Center Degraded Performance</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;14:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - On November 28, 2019, between 14:22 and 14:28 UTC, customer connections to the Turin (TRN1) data center may have experienced decreased performance or disconnect from the service. This issue has been resolved, and normal connectivity restored.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:wss.status.symantec.com,2005:Incident/3256060</id>
+    <published>2019-11-26T05:30:33Z</published>
+    <updated>2019-11-26T05:30:33Z</updated>
+    <link rel="alternate" type="text/html" href="https://wss.status.symantec.com/incidents/rnm2gjj5lc3l"/>
+    <title>Turin (TRN1) Data Center Degraded Performance</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;05:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We have confirmed the unplanned carrier maintenance is completed and Turin (TRN1) Data Center is now fully operational. This incident is resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;03:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We are aware that customers connecting via the Turin (TRN1) Data Center may experience degraded performance. We have identified the cause of this issue as unplanned carrier maintenance. The next update will be available at approximately 6:00 UTC or when new information becomes available.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:wss.status.symantec.com,2005:Incident/3248846</id>
+    <published>2019-11-23T18:43:36Z</published>
+    <updated>2019-11-23T18:44:30Z</updated>
+    <link rel="alternate" type="text/html" href="https://wss.status.symantec.com/incidents/gxc4t6y4gx6r"/>
+    <title>Johannesburg (JNB2) Data Center Unavailable</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;18:43&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - On November 23, 2019, between 07:30 and 16:00 UTC, customers connecting to the Johannesburg (JNB2) Data Center may have experienced decreased performance or disconnects from the service. This issue has been resolved, and normal connectivity restored.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:wss.status.symantec.com,2005:Incident/3231193</id>
+    <published>2019-11-19T08:35:00Z</published>
+    <updated>2019-11-19T09:19:31Z</updated>
+    <link rel="alternate" type="text/html" href="https://wss.status.symantec.com/incidents/2kk5148jgwfk"/>
+    <title>Mexico City (MEX1) Data Center Degraded Performance</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;08:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - On November 19, 2019, between 06:13 and 06:28 UTC, customers connecting to the Mexico City (MEX1) Data Center may have experienced decreased performance from the service. This issue has been resolved, and normal connectivity restored.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:wss.status.symantec.com,2005:Incident/3227127</id>
+    <published>2019-11-18T09:26:31Z</published>
+    <updated>2019-11-18T09:26:31Z</updated>
+    <link rel="alternate" type="text/html" href="https://wss.status.symantec.com/incidents/3vfn7q81g8x3"/>
+    <title>Tel Aviv (TLV1) Data Center Unavailable</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;09:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We have confirmed the underlying issue is resolved. This incident is now closed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;08:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - As of 08:41 UTC connectivity has been restored. We continue to monitor the data center performance. We will provide additional updates as new information becomes available.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;08:22&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We have identified the root cause and are working towards full remediation. We will provide further updates as they become available.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;07:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - The Tel Aviv (TLV1) data center is currently unavailable. We are investigating the issue and will provide additional updates as new information becomes available.&lt;br /&gt; &lt;br /&gt;IPSec connected customers are requested to bring up their secondary tunnel (if configured) while we work towards resolving this incident.&lt;/p&gt;</content>
+  </entry>
+</feed>
